@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a professor at Laval University (Quebec City, Canada), in the department of Biochemistry, Microbiology and Bioinformatics.
+I teach undergraduate and graduate courses on the following topics :
+- Proteins in general
+- Protein structure and function
+- Protein dynamics
+- Bioinformatics
+- Machine learning
+My research involves the study of protein stucture and dynamics using NMR, bioinformatic and machine learning.
+
 <!--
 **smg3d/smg3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
