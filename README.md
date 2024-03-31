@@ -7,6 +7,7 @@ I teach undergraduate and graduate courses on the following topics :
 - Protein dynamics
 - Bioinformatics
 - Machine learning
+
 My research involves the study of protein stucture and dynamics using NMR, bioinformatic and machine learning.
 
 <!--
